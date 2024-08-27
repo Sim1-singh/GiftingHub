@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://update-image.web.app/</loc>
+  <lastmod>2021-06-03T21:45:01+00:00</lastmod>
+</url>
+<url>
+  <loc>https://update-image.web.app/aboutus</loc>
+  <lastmod>2021-06-03T21:45:01+00:00</lastmod>
+</url>
+<url>
+  <loc>https://update-image.web.app/recommendedhome</loc>
+  <lastmod>2021-05-21T03:08:01+00:00</lastmod>
+</url>
+<url>
+  <loc>https://update-image.web.app/valentinehome</loc>
+  <lastmod>2021-05-21T03:08:01+00:00</lastmod>
+</url>
+<url>
+  <loc>https://update-image.web.app/home</loc>
+  <lastmod>2021-06-03T21:45:01+00:00</lastmod>
+</url>
+<url>
+  <loc>https://update-image.web.app/samplegifts</loc>
+  <lastmod>2021-05-21T03:08:01+00:00</lastmod>
+</url>
+<url>
+  <loc>https://update-image.web.app/login</loc>
+  <lastmod>2021-05-21T03:08:01+00:00</lastmod>
+</url>
+<url>
+  <loc>https://update-image.web.app/scheduledlive/main/:slug</loc>
+  <lastmod>2021-05-21T03:08:01+00:00</lastmod>
+</url>
+<url>
+  <loc>https://update-image.web.app/ContinuePack/:slug</loc>
+  <lastmod>2021-05-21T03:08:01+00:00</lastmod>
+</url>
+<url>
+  <loc>https://update-image.web.app/userpackspage</loc>
+  <lastmod>2021-05-21T03:08:01+00:00</lastmod>
+</url>
+</urlset>
